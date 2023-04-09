@@ -5,7 +5,6 @@ const c: IConfig = {
   // [必填], 请填写您的仓库地址
   gitRepoUrl: 'https://github.com/yqbgq/nav',
 
-  // Deployment branch name
   // 部署分支
   branch: 'main',
 
